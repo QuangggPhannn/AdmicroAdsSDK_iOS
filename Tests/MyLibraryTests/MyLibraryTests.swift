@@ -1,7 +1,7 @@
 import XCTest
-@testable import MyLibrary
+@testable import AdmicroAdsSDK_iOS
 
-final class MyLibraryTests: XCTestCase {
+final class AdmicroAdsSDK_iOSTests: XCTestCase {
     func testExample() throws {
         // XCTest Documentation
         // https://developer.apple.com/documentation/xctest
